@@ -1,0 +1,4 @@
+RailsInstaller
+==============
+
+Rails project teste
